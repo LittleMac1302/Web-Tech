@@ -1,5 +1,6 @@
 body {
-  background-color: lightblue;
+  background-color: cadetblue;
+  padding: 5%;
 }
 
 nav{
@@ -32,4 +33,14 @@ h1{
   text-decoration: underline;
   text-align: center;
   color: green;
+
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table{
+  background-color: white;
+  border-collapse: collapse;
 }
