@@ -17,14 +17,14 @@ li{
 }
 
 li a:hover{
-  background-color: grey;
+  background-color: white;
 }
 
 a{
   display: inline-block;
   padding: 8px;
   margin: auto;
-  background-color: white;
+  background-color: lightgray;
 }
 
 h1{
@@ -43,4 +43,14 @@ table, th, td {
 table{
   background-color: white;
   border-collapse: collapse;
+}
+
+.background{
+ background-color: white;
+ padding: 2.5%;
+}
+
+.hotFoodBack{
+  background-color: cornflowerblue;
+  
 }
